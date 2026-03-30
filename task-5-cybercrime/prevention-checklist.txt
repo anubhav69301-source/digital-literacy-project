@@ -1,5 +1,5 @@
 # Stay Safe Online – Checklist
-* Prevention Tips
+*Prevention Tips
 -Use strong passwords
 -create unique passwords with a mix of letters, numbers, and symbols for every account.
 -Enable Two-Factor Authentication (2FA)
